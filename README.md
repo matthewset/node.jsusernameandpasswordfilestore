@@ -6,4 +6,4 @@ Instructions:
 - Run on Visual Studio Code or any other IDE
 - Open Terminal and type "node app.js"
 - Open Browser and go to localhost:1010
-- message.txt should be updated
+- message.csv should be updated
